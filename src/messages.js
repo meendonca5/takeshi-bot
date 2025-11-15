@@ -7,6 +7,15 @@
  *
  * @author Dev Gui
  */
-export const welcomeMessage = "Seja bem vindo ao nosso grupo, @member!";
+export const welcomeMessage = "ᑲᥱm ᥎іᥒძ᥆ (ᥲ) 🥝
+> Membro: @member
+
+sᥱ ᥲ⍴rᥱsᥱᥒ𝗍ᥱ 
+❀𝖿᥆𝗍᥆
+❀ᥒ᥆mᥱ
+❀іძᥲძᥱ
+❀ᥴіძᥲძᥱ
+
+ᥣᥱіᥲ ᥲs rᥱgrᥲs!";
 export const exitMessage =
   "Poxa, @member saiu do grupo... Sentiremos sua falta!";
