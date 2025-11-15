@@ -16,12 +16,12 @@ export const BOT_NAME = "Takeshi Bot";
 // LID do bot.
 // Para obter o LID do bot, use o comando <prefixo>lid respondendo em cima de uma mensagem do número do bot
 // Troque o <prefixo> pelo prefixo do bot (ex: /lid).
-export const BOT_LID = "12345678901234567890@lid";
+export const BOT_LID = "5521965917525@s.whatsapp.net";
 
 // LID do dono do bot.
 // Para obter o LID do dono do bot, use o comando <prefixo>meu-lid
 // Troque o <prefixo> pelo prefixo do bot (ex: /meu-lid).
-export const OWNER_LID = "12345678901234567890@lid";
+export const OWNER_LID = "5521965917525@s.whatsapp.net";
 
 // Diretório dos comandos
 export const COMMANDS_DIR = path.join(__dirname, "commands");
